@@ -21,3 +21,5 @@ Male micro USB Jack,
 Prototyping PCB - 6x8cm,
 
 Solidworks used to make the enclosure and to make housing for the PCB's
+
+gcode files for 3d printer
